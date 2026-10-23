@@ -57,8 +57,8 @@ Before getting started, make sure your system meets the following requirements:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ai-transcriber-app.git
-   cd ai-transcriber-app
+   git clone https://github.com/alok-kumar8765/video_audio_trancriber
+   cd video_audio_trancriber
    ```
 
 2. **Create and Activate a Virtual Environment:**

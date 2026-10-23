@@ -60,5 +60,5 @@ Before running the application, make sure you have:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/transcription-desktop-app.git](https://github.com/your-username/transcription-desktop-app.git)
-   cd transcription-desktop-app
+   git clone [https://github.com/alok-kumar8765/video_audio_trancriber](https://github.com/alok-kumar8765/video_audio_trancriber)
+   cd video_audio_trancriber
