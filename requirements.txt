@@ -1,0 +1,8 @@
+pip install openai-whisper fpdf torch
+pip install streamlit openai-whisper
+
+##===================================
+## (Note: If you encounter an error related to 
+## setuptools-rust, you may also need to run pip install 
+## setuptools-rust).
+##=============================================
